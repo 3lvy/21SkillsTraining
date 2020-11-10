@@ -1,7 +1,7 @@
 ### Profile
 My name is ElvyLewis Ndungu
 
-github link: [github](https://github.com/Viralelvy360)
+github: [github](https://github.com/Viralelvy360)
 
 
 twitter: [twitter](https://twitter.com/l_3lvy)
