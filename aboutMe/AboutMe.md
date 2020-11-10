@@ -1,11 +1,27 @@
-My name is ElvyLewis Ndung'u. My github link is: https://github.com/Viralelvy360
+### Profile
+My name is ElvyLewis Ndungu
 
-I am a student currently pursuing a bachelor's degree in Actuarial Science at Dedan Kimathi University.
+github link: [github](https://github.com/Viralelvy360)
 
-Being an AI and general technology enthusiast, I have always had that drive and urge to know the mechanics and workings of "smart" systems and also develop some of my own. Thus I started learning c++, python and also took on some courses on web development. I have also joined various data science and artificial intelligence communities and forums such as kaggle and fastai. I have also participated in various competitions in kaggle and still compete in competitions that come up. I have also joined competitive programming challenges such Google Kickstart, HackerRank and Coderank where I have learnt many skills such as good code writing, on various algorithms and data structures and also problem solving skills. I  incorporate these skills in my code writing and development practices.
 
-I also have some knowledge on cybersecurity. I believe that it is of importance that one develops and deploys secure applications. I am still reading more and also practising on various platforms and capture the flag competitions.
+twitter[twitter](https://twitter.com/l_3lvy)
 
-With advancements in the artificial intelligence field and all its prospective applications I have taken a keen interest in the subject. It’s my belief that AI will and if used correctly will augment humanity. Making breakthroughs in fields such as science, medicine and food security. There’s still a need for ethics as we explore this field of infinite possibilities.
+### Bio
 
-Joining this program will be life changing as I get to explore and learn more on artificial intelligence, software development and also take on other learning paths offered and learn from this awesome community that you have put together. 
+I am student currently pursuing a bachelor's degree in actuarial science at Dedan Kimathi University. Being an AI and a general technology enthusiast, I have always had that drive and urge to the mechanics and workings of "smart" systems and also develop some of my own. I have great interest in technology innovations, contributing towards a safer and productive future and having an positive impact in the community.
+
+### Career Objectives
+
+To work and develop my skills in an institution thats competitive and help come up with solutions to common problems that ail humanity such as climate change, food security and in the science and medicine field. With various researches and AI-related technology achievements in fields such as in medicine, it is my ambition to contribute to such breakthroughs that will be of service to the community and the globe as well.
+
+### Skills
+* Coding in C++, Python, GoLang and Javascript
+* Web designing with HTML, CSS and Javascript.
+* SQL Database management.
+* Data mining with python.
+* Problem solving skills that I have gained from competitive programming such as Google Kickstart, HackerRank and coderank.
+* Research skills.
+* Data structures and algrorithms
+
+- I have also been engaging in AI and machine learning forums such as [kaggle](https://www.kaggle.com) and [fast.ai](www://fast.ai) and have particapated in competitions in kaggle. Which have helped know of various life examples where AI and machine learning is being used. 
+
